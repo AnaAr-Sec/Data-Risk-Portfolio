@@ -1,6 +1,6 @@
-# 🛡️ Ana Alicia Arroyo - Cybersecurity Portfolio
+# 🛡️ Ana Alicia - Cybersecurity Portfolio 
 
-¡Bienvenida/o a mi portafolio de Ciberseguridad! Soy **Ingeniera en Administración** en transición al sector tecnológico, especializada en **Gobernanza, Riesgo y Cumplimiento (GRC)** y gestión de identidades.
+¡Bienvenida/o a mi portafolio de Ciberseguridad! Soy **Ingeniera en Administración** en transición al sector tecnológico, especializada en **Gobernanza, Riesgo y Cumplimiento (GRC)** y gestión de identidades. ⚠️ Nota: Este portafolio se encuentra actualmente en construcción
 
 > "Mi enfoque no es solo proteger los activos, sino asegurar que la seguridad sea un habilitador del negocio y no un obstáculo."
 
@@ -22,7 +22,7 @@ Análisis de mi experiencia en la validación de integridad de perfiles y contro
 ### 2. Cumplimiento y Normativa de Datos
 Documentación sobre la administración estratégica de activos de información bajo normativas de protección de datos personales.
 
-### 3. Laboratorios Técnicos (Próximamente)
+### 3. Laboratorios Técnicos ⚒️ (Próximamente)
 * Simulaciones de redes seguras en Cisco Packet Tracer.
 * Scripts de automatización en Python.
 
