@@ -17,4 +17,4 @@ IAM risk analysis and security controls.
 
 Basic Python project demonstrating logic, loops and input validation.
 
-🔗 https://github.com/TUUSUARIO/python-number-guessing-game
+🔗 https://github.com/AnaAr-Sec/python-number-guessing-game
