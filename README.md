@@ -12,3 +12,9 @@ IAM risk analysis and security controls.
 ### Network Security Lab (Coming soon)
 
 ### Python Security Scripts (Coming soon)
+
+### Python Number Guessing Game
+
+Basic Python project demonstrating logic, loops and input validation.
+
+🔗 https://github.com/TUUSUARIO/python-number-guessing-game
