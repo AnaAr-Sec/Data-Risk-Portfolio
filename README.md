@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Portfolio
 
 This repository contains an overview of my cybersecurity projects.
 
