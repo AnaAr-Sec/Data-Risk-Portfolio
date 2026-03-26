@@ -1,6 +1,6 @@
 # Portfolio
 
-This repository contains an overview of my cybersecurity projects.
+This repository contains an overview of my projects.
 
 ## Projects
 
