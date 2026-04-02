@@ -8,9 +8,9 @@ My work combines **technical investigation + structured risk thinking**, with a 
 ## 🚀 Portfolio Structure
 | Directory          | Description                                     | Key Focus              |
 | ------------------ | ----------------------------------------------- | ---------------------- |
-| `01-SOC-Projects`  | Phishing analysis and monitoring labs           | Threat Detection & SOC |
-| `02-Risk-GRC`      | Risk analysis and access control projects       | Governance & Risk      |
-| `03-Data-Analysis` | Data analysis projects supporting cybersecurity | Analytical Skills      |
+| [`01-SOC-Projects`](https://github.com/AnaAr-Sec/Data-Risk-Portfolio/tree/main/01-SOC-Projects)  | Phishing analysis and monitoring labs           | Threat Detection & SOC |
+| [`02-Risk-GRC`](https://github.com/AnaAr-Sec/Data-Risk-Portfolio/tree/main/02-Risk-GRC)      | Risk analysis and access control projects       | Governance & Risk      |
+| [`03-Data-Analysis`](https://github.com/AnaAr-Sec/Data-Risk-Portfolio/tree/main/03-Data-Analysis) | Data analysis projects supporting cybersecurity | Analytical Skills      |
 
 
 ---
