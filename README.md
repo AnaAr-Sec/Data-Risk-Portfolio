@@ -6,60 +6,12 @@ My work combines **technical investigation + structured risk thinking**, with a 
 
 ---
 ## 🚀 Portfolio Structure
-### 🛡️ 01 – SOC Projects
+| Directory          | Description                                     | Key Focus              |
+| ------------------ | ----------------------------------------------- | ---------------------- |
+| `01-SOC-Projects`  | Phishing analysis and monitoring labs           | Threat Detection & SOC |
+| `02-Risk-GRC`      | Risk analysis and access control projects       | Governance & Risk      |
+| `03-Data-Analysis` | Data analysis projects supporting cybersecurity | Analytical Skills      |
 
-**📧 Phishing Analysis Case Study (In Progress)**
-Simulated phishing attack investigation.
-
-- Email threat analysis (social engineering techniques)
-- Identification of Indicators of Compromise (IOCs)
-- Risk evaluation and impact assessment
-- Incident documentation and response recommendations
----
-### 🌐 Network Monitoring Lab (In Progress)**
-
-Simulation of network traffic monitoring and alert detection.
-
-- Basic log analysis
-- Identification of suspicious activity
-- Introduction to SOC workflows
----  
-### 🔐 02 – Risk & GRC
-
-**🔑 Identity & Access Risk Analysis**
-
-Risk-based analysis of access control vulnerabilities.
-
-- Identification of access risks and privilege misuse
-- Evaluation aligned with security frameworks
-- Decision-making based on risk assessment
-  
-🔗 https://github.com/AnaAr-Sec/identity-access-risk-analysis
-
----
-### 📊 03 – Data Analysis (Support Skills)
-
-**📊 Customer Data Cleaning & Analysis**
-
-Data cleaning and exploratory analysis using Python.
-
-- Data transformation and cleaning
-- Pattern identification and insights generation
-- Structured analytical thinking applied to datasets
-  
-🔗 https://github.com/AnaAr-Sec/customer-data-analysis
-
----
-
-### 🧪 Additional Practice (Programming Fundamentals)
-**🎯 Python Number Guessing Game**
-
-Basic Python project demonstrating logic, loops, and input validation.
-
-- Application of control structures
-- Reinforces problem-solving skills
-
-🔗 https://github.com/AnaAr-Sec/python-number-guessing-game
 
 ---
 **🧠 Technical Skills**
